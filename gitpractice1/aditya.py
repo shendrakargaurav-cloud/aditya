@@ -1,4 +1,3 @@
-print("Helloworld")
-print("Woahhhhhh")
-print("wowwwwwww")
+print("sadie sink")
+print("ana de armas")
 
